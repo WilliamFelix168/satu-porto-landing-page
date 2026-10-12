@@ -1,0 +1,9 @@
+node_modules/
+.next/
+out/
+dist/
+coverage/
+*.tsbuildinfo
+__MACOSX/
+.DS_Store
+Thumbs.db
